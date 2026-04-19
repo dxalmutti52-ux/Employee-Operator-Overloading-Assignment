@@ -1,0 +1,15 @@
+/Users/user/Projects/Employee Operator Overloading Assignment/Employee Operator Overloading Assignment/bin/Debug/net7.0/Employee Operator Overloading Assignment
+/Users/user/Projects/Employee Operator Overloading Assignment/Employee Operator Overloading Assignment/bin/Debug/net7.0/Employee Operator Overloading Assignment.deps.json
+/Users/user/Projects/Employee Operator Overloading Assignment/Employee Operator Overloading Assignment/bin/Debug/net7.0/Employee Operator Overloading Assignment.runtimeconfig.json
+/Users/user/Projects/Employee Operator Overloading Assignment/Employee Operator Overloading Assignment/bin/Debug/net7.0/Employee Operator Overloading Assignment.dll
+/Users/user/Projects/Employee Operator Overloading Assignment/Employee Operator Overloading Assignment/bin/Debug/net7.0/Employee Operator Overloading Assignment.pdb
+/Users/user/Projects/Employee Operator Overloading Assignment/Employee Operator Overloading Assignment/obj/Debug/net7.0/Employee Operator Overloading Assignment.csproj.AssemblyReference.cache
+/Users/user/Projects/Employee Operator Overloading Assignment/Employee Operator Overloading Assignment/obj/Debug/net7.0/Employee Operator Overloading Assignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Projects/Employee Operator Overloading Assignment/Employee Operator Overloading Assignment/obj/Debug/net7.0/Employee Operator Overloading Assignment.AssemblyInfoInputs.cache
+/Users/user/Projects/Employee Operator Overloading Assignment/Employee Operator Overloading Assignment/obj/Debug/net7.0/Employee Operator Overloading Assignment.AssemblyInfo.cs
+/Users/user/Projects/Employee Operator Overloading Assignment/Employee Operator Overloading Assignment/obj/Debug/net7.0/Employee Operator Overloading Assignment.csproj.CoreCompileInputs.cache
+/Users/user/Projects/Employee Operator Overloading Assignment/Employee Operator Overloading Assignment/obj/Debug/net7.0/Employee Operator Overloading Assignment.dll
+/Users/user/Projects/Employee Operator Overloading Assignment/Employee Operator Overloading Assignment/obj/Debug/net7.0/refint/Employee Operator Overloading Assignment.dll
+/Users/user/Projects/Employee Operator Overloading Assignment/Employee Operator Overloading Assignment/obj/Debug/net7.0/Employee Operator Overloading Assignment.pdb
+/Users/user/Projects/Employee Operator Overloading Assignment/Employee Operator Overloading Assignment/obj/Debug/net7.0/Employee Operator Overloading Assignment.genruntimeconfig.cache
+/Users/user/Projects/Employee Operator Overloading Assignment/Employee Operator Overloading Assignment/obj/Debug/net7.0/ref/Employee Operator Overloading Assignment.dll
